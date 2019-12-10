@@ -1,0 +1,1 @@
+pandac file.md -s -o file.pdf
